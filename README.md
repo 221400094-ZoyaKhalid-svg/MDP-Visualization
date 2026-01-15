@@ -63,7 +63,7 @@ Visualization helps in understanding the learning process clearly.
 **Team Members**
 Member 1: Eman Rashid
 Member 2: Zoya Khalid
-Member 3: SArwat Naveed
+Member 3: Sarwat Naveed
 
 **Instructor**
 Instructor Name: Zuhaib Hussain
