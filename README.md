@@ -61,9 +61,9 @@ Both algorithms reach the same optimal solution.
 Visualization helps in understanding the learning process clearly.
 
 **Team Members**
-Member 1: Eman Rashid
-Member 2: Zoya Khalid
-Member 3: Sarwat Naveed
+- Member 1: Eman Rashid
+- Member 2: Zoya Khalid
+- Member 3: Sarwat Naveed
 
 **Instructor**
-Instructor Name: Zuhaib Hussain
+- Instructor Name: Zuhaib Hussain Butt
