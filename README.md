@@ -60,10 +60,10 @@ Policy Iteration converges faster to an optimal policy.
 Both algorithms reach the same optimal solution.
 Visualization helps in understanding the learning process clearly.
 
-**Team Members**
-Member 1: Eman Rashid
-Member 2: Zoya Khalid
-Member 3: Sarwat Naveed
+**Team Members**\n
+Member 1: Eman Rashid\n
+Member 2: Zoya Khalid\n
+Member 3: Sarwat Naveed\n
 
-**Instructor**
-Instructor Name: Zuhaib Hussain
+**Instructor**\n
+Instructor Name: Zuhaib Hussain Butt
